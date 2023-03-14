@@ -1,3 +1,6 @@
+# What are Databases ?
+A Database is a shared collection of logically related data and description of these data, designed to meet the information needs of an organization.
+
 # Properties of an Idea Database
 
 1. Integrity 2. Availability 3. Security 4. Independent of Application 5. Concurrency
