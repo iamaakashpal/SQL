@@ -65,7 +65,7 @@
 
 - **`Surrogate Key`** -
 
-- ******`Foreign Key`** - A foreign key is a primary key from one table that is used to establish a relationship with another table.
+- **`Foreign Key`** - A foreign key is a primary key from one table that is used to establish a relationship with another table.
 
 # Cardinality of Relationship
 
