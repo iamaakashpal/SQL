@@ -1,7 +1,7 @@
 
 # What are Databases ?
 
-A Database is a shared collection of logically related data and description of these data, designed to meet the information needs of an organization.
+✔️ A Database is a shared collection of logically related data and description of these data, designed to meet the information needs of an organization.
 
 - **`Data Storage`**: A database is used to store large amounts of structured data, making it easily accessible, searchable, and retrievable.
 
@@ -13,7 +13,7 @@ A Database is a shared collection of logically related data and description of t
 
 # Properties of an Idea Database
 
-`Integrity` `Availability` `Security` `Independent of Application` `Concurrency`
+✔️ `Integrity` `Availability` `Security` `Independent of Application` `Concurrency`
 
 # Types of Databases
 
@@ -29,11 +29,11 @@ A Database is a shared collection of logically related data and description of t
 
 # Relational Database
 
-- Also known as SQL databases, these databases use a relational model to organize data into tables with rows and columns.
+✔️ Also known as SQL databases, these databases use a relational model to organize data into tables with rows and columns.
 
 # What is DBMS ?
 
-- A database management system (DBMS) is a software system that provides the interfaces and tools needed to store, organize, and manage data in a database. A DBMS acts as an intermediary between the database and the applications or users that access the data stored in the database.
+✔️ A database management system (DBMS) is a software system that provides the interfaces and tools needed to store, organize, and manage data in a database. A DBMS acts as an intermediary between the database and the applications or users that access the data stored in the database.
 
 # Functions of DBMS
 
@@ -51,7 +51,7 @@ A Database is a shared collection of logically related data and description of t
 
 # Database Keys
 
-- A key in a database is an attribute or a set of attributes that uniquely identifies a tuple (row) in a table. Keys play a crucial role in ensuring the integrity and reliability of a database by enforcing unique constraints on the data and establishing relationships between tables.
+✔️ A key in a database is an attribute or a set of attributes that uniquely identifies a tuple (row) in a table. Keys play a crucial role in ensuring the integrity and reliability of a database by enforcing unique constraints on the data and establishing relationships between tables.
 
 **`Super Key`** - A Super key is a combination of columns that uniquely identifies any row within a relational database management system (RDBMS) table 
 
@@ -69,7 +69,7 @@ A Database is a shared collection of logically related data and description of t
 
 # Cardinality of Relationship
 
-- Cardinality in database relationships refers to the number of occurrences of an entity in a relationship with another entity. Cardinality defines the number of instances of one entity that can be associated with a single instance of the related entity.
+✔️ Cardinality in database relationships refers to the number of occurrences of an entity in a relationship with another entity. Cardinality defines the number of instances of one entity that can be associated with a single instance of the related entity.
 
 # Drawbacks of Database
 
