@@ -17,15 +17,15 @@
 
 # Types of Databases
 
-**`Relational Databases`** - Also known as SQL databases, these databases use a relational model to organize data into tables with rows and columns. 
+- **`Relational Databases`** - Also known as SQL databases, these databases use a relational model to organize data into tables with rows and columns. 
 
-**`NoSQL Databases`** - These databases are designed to handle large amounts of unstructured or semi-structured data, such as documents, images, or videos. (MongoDB)
+- **`NoSQL Databases`** - These databases are designed to handle large amounts of unstructured or semi-structured data, such as documents, images, or videos. (MongoDB)
 
-**`Column Databases`** - These databases store data in columns rather than rows, making them well- suited for data warehousing and analytical applications. (Amazon Redshift, Google BigQuery)
+- **`Column Databases`** - These databases store data in columns rather than rows, making them well- suited for data warehousing and analytical applications. (Amazon Redshift, Google BigQuery)
 
-**`Graph Databases`** - These databases are used to store and query graph-structured data, such as social network connections or recommendation systems. (Neo4j, Amazon Neptune)
+- **`Graph Databases`** - These databases are used to store and query graph-structured data, such as social network connections or recommendation systems. (Neo4j, Amazon Neptune)
 
-**`Key-value databases`** - These databases store data as a collection of keys and values, making them well-suited for caching and simple data storage needs (Redis and Amazon DynamoDB)
+- **`Key-value databases`** - These databases store data as a collection of keys and values, making them well-suited for caching and simple data storage needs (Redis and Amazon DynamoDB)
 
 # Relational Database
 
@@ -37,35 +37,35 @@
 
 # Functions of DBMS
 
-**`Data Management`** - Store, retrieve and modify 
+- **`Data Management`** - Store, retrieve and modify 
 
-**`data Integrity`** - Maintain accuracy of 
+- **`data Integrity`** - Maintain accuracy of 
 
-**`data Concurrency`** - Simultaneous data access for multiple users 
+- **`data Concurrency`** - Simultaneous data access for multiple users 
 
-**`Transaction`** - Modification to database must either be successful or must not happen at all 
+- **`Transaction`** - Modification to database must either be successful or must not happen at all 
 
-**`Security`** - Access to authorized users only
+- **`Security`** - Access to authorized users only
 
-**`Utilities`** - Data import/export, user management, backup, logging
+- **`Utilities`** - Data import/export, user management, backup, logging
 
 # Database Keys
 
 ✔️ A key in a database is an attribute or a set of attributes that uniquely identifies a tuple (row) in a table. Keys play a crucial role in ensuring the integrity and reliability of a database by enforcing unique constraints on the data and establishing relationships between tables.
 
-**`Super Key`** - A Super key is a combination of columns that uniquely identifies any row within a relational database management system (RDBMS) table 
+- **`Super Key`** - A Super key is a combination of columns that uniquely identifies any row within a relational database management system (RDBMS) table 
 
-**`Candidate key`** - A candidate key is a minimal Super key, meaning it has no redundant attributes. In other words, it's the smallest set of attributes that can be used to uniquely identify a tuple (row) in the table
+- **`Candidate key`** - A candidate key is a minimal Super key, meaning it has no redundant attributes. In other words, it's the smallest set of attributes that can be used to uniquely identify a tuple (row) in the table
 
-**`Primary Key`** - A primary key is a unique identifier for each tuple in a table. There can only be one primary key in a table, and it cannot contain null values.
+- **`Primary Key`** - A primary key is a unique identifier for each tuple in a table. There can only be one primary key in a table, and it cannot contain null values.
 
-**`Alternate Key`** - An alternate key is a candidate key that is not used as the primary key. 
+- **`Alternate Key`** - An alternate key is a candidate key that is not used as the primary key. 
 
-**`Composite Key`** - A composite key is a primary key that is made up of two or more attributes. Composite keys are used when a single attribute is not sufficient to uniquely identify a tuple in a table.
+- **`Composite Key`** - A composite key is a primary key that is made up of two or more attributes. Composite keys are used when a single attribute is not sufficient to uniquely identify a tuple in a table.
 
-**`Surrogate Key`** -
+- **`Surrogate Key`** -
 
-**`Foreign Key`** - A foreign key is a primary key from one table that is used to establish a relationship with another table.
+- ******`Foreign Key`** - A foreign key is a primary key from one table that is used to establish a relationship with another table.
 
 # Cardinality of Relationship
 
@@ -73,16 +73,16 @@
 
 # Drawbacks of Database
 
-**`Complexity:`** Setting up and maintaining a database can be complex and time- consuming, especially for large and complex systems.
+- **`Complexity:`** Setting up and maintaining a database can be complex and time- consuming, especially for large and complex systems.
 
-**`Cost:`** The cost of setting up and maintaining a database, including hardware, software, and personnel, can be high.
+- **`Cost:`** The cost of setting up and maintaining a database, including hardware, software, and personnel, can be high.
 
-**`Scalability:`** As the amount of data stored in a database grows, it can become more difficult to manage, leading to performance and scalability issues.
+- **`Scalability:`** As the amount of data stored in a database grows, it can become more difficult to manage, leading to performance and scalability issues.
 
-**`Data Integrity:`** Ensuring the accuracy and consistency of data stored in a database can be a challenge, especially when multiple users are updating the data simultaneously.
+- **`Data Integrity:`** Ensuring the accuracy and consistency of data stored in a database can be a challenge, especially when multiple users are updating the data simultaneously.
 
-**`Security:`** Securing a database from unauthorized access and protecting sensitive information can be difficult, especially with the increasing threat of cyber attacks. 
+- **`Security:`** Securing a database from unauthorized access and protecting sensitive information can be difficult, especially with the increasing threat of cyber attacks. 
 
-**`Data Migration:`** Moving data from one database to another or upgrading to a new database can be a complex and time-consuming process.
+- **`Data Migration:`** Moving data from one database to another or upgrading to a new database can be a complex and time-consuming process.
 
-**`Flexibility:`** The structure of a database is often rigid and inflexible, making it difficult to adapt to changing requirements or to accommodate new types of data.
+- **`Flexibility:`** The structure of a database is often rigid and inflexible, making it difficult to adapt to changing requirements or to accommodate new types of data.
