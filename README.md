@@ -77,6 +77,8 @@
 
 ✔️ Cardinality in database relationships refers to the number of occurrences of an entity in a relationship with another entity. Cardinality defines the number of instances of one entity that can be associated with a single instance of the related entity.
 
+![Cardinality of Relationships](https://raw.githubusercontent.com/iamaakashpal/SQL/main/images/Cardinality%20of%20Relationships.png)
+
 # Drawbacks of Database
 
 - **`Complexity:`** Setting up and maintaining a database can be complex and time- consuming, especially for large and complex systems.
