@@ -13,7 +13,11 @@
 
 # Properties of an Idea Database
 
-✔️ `Integrity` `Availability` `Security` `Independent of Application` `Concurrency`
+- `Integrity` 
+- `Availability` 
+- `Security` 
+- `Independent of Application` 
+- `Concurrency`
 
 # Types of Databases
 
