@@ -1,5 +1,3 @@
-# SQL
-
 # Properties of an Idea Database
 
 1. Integrity 2. Availability 3. Security 4. Independent of Application 5. Concurrency
