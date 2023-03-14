@@ -35,6 +35,8 @@
 
 ✔️ Also known as SQL databases, these databases use a relational model to organize data into tables with rows and columns.
 
+![Relational Databases](https://raw.githubusercontent.com/iamaakashpal/SQL/main/images/Relational%20Databases.png)
+
 # What is DBMS ?
 
 ✔️ A database management system (DBMS) is a software system that provides the interfaces and tools needed to store, organize, and manage data in a database. A DBMS acts as an intermediary between the database and the applications or users that access the data stored in the database.
